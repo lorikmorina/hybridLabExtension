@@ -39,4 +39,5 @@
 "vdekja e",
 "asociacioni komunave",
 "komunave shumicë",
-"e kurtit"
+"e kurtit",
+"fokusit"
