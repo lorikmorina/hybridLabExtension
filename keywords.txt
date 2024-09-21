@@ -42,4 +42,5 @@
 "e kurtit",
 "fokusit",
 "Kosovë",
-"buxheti"
+"buxheti",
+"pavarësisht se liberalizimi i"
