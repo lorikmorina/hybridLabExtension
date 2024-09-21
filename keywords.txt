@@ -40,4 +40,5 @@
 "asociacioni komunave",
 "komunave shumicë",
 "e kurtit",
-"fokusit"
+"fokusit",
+"Kosov"
