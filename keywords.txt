@@ -41,4 +41,5 @@
 "komunave shumicë",
 "e kurtit",
 "fokusit",
-"Kosovë"
+"Kosovë",
+"buxheti"
