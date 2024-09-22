@@ -43,4 +43,5 @@
 "fokusit",
 "Kosovë",
 "buxheti",
-"pavarësisht se liberalizimi i"
+"pavarësisht se liberalizimi i",
+"shqiptarët"
