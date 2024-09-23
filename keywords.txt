@@ -44,4 +44,5 @@
 "Kosovë",
 "buxheti",
 "pavarësisht se liberalizimi i",
-"shqiptarët"
+"shqiptarët",
+"koha për një Qeveri"
