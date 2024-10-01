@@ -682,3 +682,4 @@
 "Olimpiada 2024",
 "SMS nga Posta",
 "Qentë endacak"
+"Javelin"
