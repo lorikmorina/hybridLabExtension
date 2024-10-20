@@ -680,6 +680,6 @@
 "Kamala Harris-Prince",
 "Donacion për shërim",
 "Olimpiada 2024",
+"Javelin",
 "SMS nga Posta",
-"Qentë endacak"
-"Javelin"
+"Qentë endacak",
