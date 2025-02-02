@@ -683,4 +683,4 @@
 "Javelin",
 "SMS nga Posta",
 "Qentë endacak",
-"Imer Mushkolaj"
+"Mushkolaj"
