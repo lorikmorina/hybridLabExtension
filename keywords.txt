@@ -683,4 +683,5 @@
 "Javelin",
 "SMS nga Posta",
 "Qentë endacak",
-"Kryetari Rama mbështet fuqishëm Nënkryetarin Zogaj"
+"Kryetari Rama mbështet fuqishëm Nënkryetarin Zogaj",
+"Rekord borxhi në banka, mbi gjysmë miliardi euro mbitërheqje nga qytetarët..."
